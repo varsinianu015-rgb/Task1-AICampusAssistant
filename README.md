@@ -39,3 +39,10 @@ SQLite database and fictional demo records are created automatically. For MySQL,
 ERP endpoints: `/api/students/count`, `/api/students/{student_id}`, `/api/students?department=...`, `/api/staff?department=...`, `/api/staff/class-teacher?department=...`, `/api/attendance/report`.
 
 Demo data is fictional. This starter has no production authentication; add authorization and audit logging before using real student/staff records.
+
+
+<img width="1920" height="1080" alt="Task1Output" src="https://github.com/user-attachments/assets/a3c9cefe-af75-47a0-b383-1337ec8f88ea" />
+
+<img width="1672" height="941" alt="College AI Assistant Architecture" src="https://github.com/user-attachments/assets/0e818a9e-679e-420f-b396-d0d8d7c9bb61" />
+
+
